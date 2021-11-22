@@ -1,0 +1,23 @@
+/* cart container styles */
+
+.cart-container {
+	border : 1px solid snow;
+	padding: 20px;
+	border-radius: 15px;
+}
+.cost {
+	color: #ff8e3c;
+}
+
+/* name styles  */
+.names {
+	color: #121629;
+	border: 1px solid springgreen;
+	margin: 20px;
+	padding: 15px;
+	border-radius: 10px;
+	background-color: #eebbc3;
+}
+.names:hover {
+	background-color: tomato;
+}
